@@ -1,1 +1,1 @@
-Equipment used for the project
+Images of equipment used for the project
