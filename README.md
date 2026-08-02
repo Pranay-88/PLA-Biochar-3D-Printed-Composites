@@ -64,3 +64,10 @@ Title:
 Co-author
 Pranay Rahul
 Mechanical Engineer
+
+---
+
+## DOI link
+
+https://www.doi.org/10.1007/s11665-026-13570-2
+
